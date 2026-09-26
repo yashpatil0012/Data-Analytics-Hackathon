@@ -1,0 +1,3 @@
+pre_amendment,total_attempts,completed_swaps,total_revenue_inr,total_energy_cost_inr,period,rev_per_swap_inr,margin_proxy_pct
+False,358087,336374,16362092.799999999,6107595.61505,Post-Amendment (28% Discount),48.64,62.67
+True,225787,212953,12241243.6,4407121.35774,Pre-Amendment (12% Discount),57.48,64.0

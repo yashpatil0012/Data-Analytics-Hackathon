@@ -1,0 +1,4 @@
+connectivity_tier,total_attempts,failed_swaps,avg_queue_wait_sec,failure_rate_pct
+fair,669537,26777,242.83212578244368,4.0
+good,2503439,92039,242.93801886125445,3.68
+poor,641729,25370,243.11275943583664,3.95

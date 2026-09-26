@@ -1,0 +1,3 @@
+first_attempt_failed,eligible_riders,retained_30d,retention_30d_pct,first_experience
+False,17723,17652,99.6,Successful First Attempt
+True,920,910,98.91,Failed/Abandoned First Attempt

@@ -1,0 +1,15 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Large Datasets & Parquet files (Raw datasets exceed GitHub file size limits)
+data/clean_swap_events.parquet
+data/clean_station_hourly_status.csv
+*.csv.gz
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db

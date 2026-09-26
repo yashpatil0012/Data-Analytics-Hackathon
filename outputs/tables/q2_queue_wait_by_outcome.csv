@@ -1,0 +1,6 @@
+event_type,event_count,avg_wait_sec,median_wait_sec,p90_wait_sec
+abandoned_queue,67663,702.7891609890191,648.0,1088.0
+cancelled_by_rider,16458,44.583424474419736,45.0,81.0
+failed_no_charged_battery,132786,29.49630985194222,30.0,53.0
+failed_system_error,11400,44.425877192982455,44.0,80.0
+swap_completed,3586398,243.71761946108603,209.0,424.0

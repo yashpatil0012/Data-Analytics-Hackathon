@@ -1,0 +1,9 @@
+Filename,Size (MB),Rows,Cols,Primary Key,Date Cols,Num Cols Count,Cat Cols Count,Max Missing %
+swap_events.csv,694.97,3877013,22,event_id,,11,11,5.96% (battery_out_id)
+station_hourly_status.csv,103.33,1487712,14,None/Composite,,11,3,55.24% (charged_3w_min)
+support_tickets.csv,6.23,44000,12,ticket_id,,2,10,65.62% (csat_score)
+riders.csv,2.0,20000,12,rider_id,signup_date,0,11,38.14% (partner_id)
+batteries.csv,0.6,6500,13,battery_id,"manufacture_date, commission_date, retired_date",4,6,77.88% (retired_date)
+city_daily_context.csv,0.21,3282,12,None/Composite,date,4,7,96.65% (festival_or_event)
+stations.csv,0.02,152,22,station_id,"commissioned_date, decommissioned_date, firmware_updated_date",9,10,99.34% (decommissioned_date)
+fleet_partners.csv,0.0,12,12,"partner_id, partner_name, contract_start_date","contract_start_date, amendment_date",3,7,91.67% (amendment_date)
